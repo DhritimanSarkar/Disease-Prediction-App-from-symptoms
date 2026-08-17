@@ -1,0 +1,11 @@
+ABSTRACT
+The advancement of healthcare technology has made it possible to develop intelligent systems that help in the early detection of diseases. 
+This mini project, "Disease Prediction from Symptoms Using Natural Language Processing (NLP),"
+aims to predict diseases based on symptoms entered by users in natural language. 
+It is a Multilingual Healthcare System that uses NLP techniques to process symptom descriptions and the Naive Bayes algorithm to identify the most probable disease.
+Based on the predicted disease, the system provides relevant information such as recommended diet, precautions, and medicines to assist users. 
+To improve accessibility and user experience, the application also supports multiple languages, allowing users to view the disease information, 
+diet recommendations, precautions, and medicines in English, Assamese, Hindi, or Bengali.
+The developed model achieves an accuracy of 85%,demonstrating its effectiveness in symptom-based disease prediction.
+This project demonstrates the effective use of NLP and machine learning in healthcare, providing a simple, accurate, and user-friendly solution 
+for symptom-based disease prediction and health guidance.
